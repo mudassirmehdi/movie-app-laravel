@@ -4,8 +4,6 @@ A movie browsing application built with **Laravel 13** and the **TMDB (The Movie
 
 ## 📸 Screenshots
 
-Add screenshots of your application in the `screenshots` directory.
-
 ### Home Page
 
 ![Laravel Movie App Home Page](screenshots/home-page.png)
