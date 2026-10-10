@@ -10,14 +10,6 @@ Add screenshots of your application in the `screenshots` directory.
 
 ![Laravel Movie App Home Page](screenshots/home-page.png)
 
-### Movie Details
-
-![Movie Details Page](screenshots/movie-details.png)
-
-### Genre Movies
-
-![Movies by Genre](screenshots/genre-movies.png)
-
 > **Note:** Replace the screenshot filenames above with your actual screenshots. Create a `screenshots` folder in the project root and add your images there.
 
 ## ✨ Features
